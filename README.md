@@ -1,6 +1,6 @@
 # Hi there, I'm Sagnik 👋
 
-🎓 **Student | Tech Enthusiast | Aspiring Full Stack Developer**
+🎓 **Student |  Aspiring Full Stack Developer**
 
 ---
 
