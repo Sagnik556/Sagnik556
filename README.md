@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Sagnik 👋
 
-<!--
-**Sagnik556/Sagnik556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Tech Enthusiast | Aspiring Full Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👨‍💻 I’m passionate about building modern web applications and exploring the **Full stack development** landscape.
+- ☁️ Fascinated by everything **Cloud Computing** and **DevOps**, always eager to learn about automation, infrastructure, and deployment.
+- 💡 Constantly seeking opportunities to collaborate and contribute to open source projects.
+- 🏫 Currently advancing my skills in software engineering while balancing my studies and side projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express, MongoDB
+- **Cloud & DevOps:** Docker, GitHub Actions, AWS (learning)
+- **Other:** Git & GitHub, VS Code , Antigravity
+
+---
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/sagnik-dasgupta-4ab315377/)
+- Email:dasguptasagnik59@gmail.com
+
+---
+
+_“Code, Create, Collaborate, and Conquer!”_
+
+
