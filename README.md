@@ -1,4 +1,4 @@
-# Hi there, I'm Sagnik 👋
+# Hi there , myself Sagnik 
 
 🎓 **Student |  Aspiring Full Stack Developer**
 
@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 I’m passionate about building modern web applications and exploring the **Full stack development** landscape.
-- ☁️ Fascinated by everything **Cloud Computing** and **DevOps**, always eager to learn about automation, infrastructure, and deployment.
+- ☁️ Fascinated by **Cloud Computing** and **DevOps**, always eager to learn about automation, infrastructure, and deployment.
 - 💡 Constantly seeking opportunities to collaborate and contribute to open source projects.
 - 🏫 Currently advancing my skills in software engineering while balancing my studies and side projects.
 
