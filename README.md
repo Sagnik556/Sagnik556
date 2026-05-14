@@ -1,4 +1,4 @@
-# Hi there , myself Sagnik 
+# Hi,myself Sagnik 
 
 🎓 **Student |  Aspiring Full Stack Developer**
 
