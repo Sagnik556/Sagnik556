@@ -26,7 +26,7 @@
 ## 📫 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/sagnik-dasgupta-4ab315377/)
-- Email:dasguptasagnik59@gmail.com
+- [Email](dasguptasagnik59@gmail.com)
 
 ---
 
