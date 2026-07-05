@@ -1,6 +1,6 @@
 # Hi,myself Sagnik 
 
-🎓 **Student |  Aspiring Full Stack Developer | Devops & Cloud Engineer**
+🎓 **Student |   Full Stack Developer |  Aspiring Devops & Cloud Engineer**
 
 ---
 
