@@ -15,11 +15,45 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express, MongoDB
-- **Cloud & DevOps:** Docker, GitHub Actions, AWS (learning)
-- **Other:** Git & GitHub, VS Code , Antigravity
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+</p>
+
+---
+
+### 🗄️ Databases & Monitoring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+---
+
+### 🔧 Version Control & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" />
+</p>
+
+---
+
+### 🚀 CI/CD & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,terraform,ansible,docker" />
+</p>
 
 ---
 
