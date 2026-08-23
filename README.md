@@ -13,9 +13,8 @@
 
 ---
 
-## 🛠️ Technologies & Tools
 
-## 🛠️ Tech Stack
+## 🛠️  Technologies & Tech Stack
 
 ### 💻 Languages & Frameworks
 
@@ -36,7 +35,7 @@
 ### 🗄️ Databases & Monitoring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ---
